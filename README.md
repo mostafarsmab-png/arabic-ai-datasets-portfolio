@@ -21,7 +21,9 @@ The project demonstrates a complete data preparation pipeline, including dataset
 
 ## 1️⃣ Project Cover
 
-![Project Cover](images/project-cover.png)
+<p align="center">
+  <img src="images/project-cover.png" alt="Project Cover" width="100%">
+</p>
 
 ---
 
